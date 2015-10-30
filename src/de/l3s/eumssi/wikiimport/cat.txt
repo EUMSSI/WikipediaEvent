@@ -1,0 +1,73 @@
+accident, disaster	1
+disaster	1
+history	2
+history, natural	2
+affair, religious	3
+enviroment, health	4
+environment, health	4
+environment, science	4
+health	4
+health, science	4
+health, wellnes	4
+medicine, science	4
+medicine, science, technology	4
+science	4
+science, technology	4
+science, weather	4
+technology	4
+weather	4
+environment	4
+innovation, technology	4
+medicine	4
+physic	5
+international, relation	6
+intragalactic, relation	6
+recreation, sport	7
+sport	7
+literature	8
+current, event	9
+diplomacy, religion	10
+religion	10
+religion, spirituality	10
+education	11
+general	12
+human	13
+exploration	14
+arm, attack	15
+arm, attack, conflict	15
+arm, conflict	15
+arm, conflict, incident	15
+conflict	15
+crime, enforcement, law	16
+crime, law	16
+crime, legal	16
+law	16
+law, order	16
+law, politic	16
+politic	16
+politic, protest	16
+election, politic	16
+government, politic	16
+art	17
+art, culture	17
+art, culture, entertainment	17
+art, culture, society	17
+art, entertainment	17
+culture	17
+entertainment	17
+society	17
+geography	18
+transport	19
+death	20
+death, life	20
+ecology	21
+arrest, detention, prosecution	22
+business	23
+business, economic	23
+business, economy	23
+business, finance	23
+economic	23
+finance	23
+medium	24
+medium, people	24
+msnbc	25
